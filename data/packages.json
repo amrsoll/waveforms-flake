@@ -28,7 +28,7 @@
                 "hash": "sha256-fCX2+Xa23UfQHx+msZcelIpwGcDnLuJq4a4oHFwyBJc="
             },
             "i686-linux": {
-                "url": "https://files.digilent.com/Software/Waveforms/3.24.3/digilent.waveforms_3.24.2_i386.deb",
+                "url": "https://files.digilent.com/Software/Waveforms/3.24.3/digilent.waveforms_3.24.3_i386.deb",
                 "hash": "sha256-ZfLh3CgLCyc4oVqrsXw6q/flN5VDRZkcMl3wL73yWQY="
             },
             "aarch64-linux": {
